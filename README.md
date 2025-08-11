@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project demonstrates the training and evaluation of **Decision Tree** and **Random Forest** classifiers on the `heart.csv` dataset to predict the presence of heart disease.  
-We analyze **overfitting**, control **tree depth**, interpret **feature importances**, and evaluate using **cross-validation**.
+It analyses the  **overfitting**, control **tree depth**, interpret **feature importances**, and evaluate using **cross-validation**.
 
 ---
 
